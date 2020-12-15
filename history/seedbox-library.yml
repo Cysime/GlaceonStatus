@@ -1,7 +1,7 @@
-url: $LIB  
-status: up
-code: 200
-responseTime: 538
-lastUpdated: 2020-12-15T16:56:08.752Z
+url: $LIB - 200 - 201 - 403 - 404 - 401  
+status: down
+code: 400
+responseTime: 580
+lastUpdated: 2020-12-15T20:29:12.345Z
 startTime: Tue Dec 15 2020 16:50:57 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
