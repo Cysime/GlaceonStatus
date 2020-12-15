@@ -6,6 +6,7 @@ repo: GlaceonStatus # Your Github repository name
 sites:
   - name: Media Center
     url: https://media.glaceon.net
+    expectedStatusCodes:
       - 200
       - 201
       - 403
@@ -13,6 +14,7 @@ sites:
       - 401
   - name: Seedbox Library
     url: $LIB
+    expectedStatusCodes:
       - 200
       - 201
       - 403
