@@ -6,44 +6,66 @@ repo: GlaceonStatus # Your Github repository name
 sites:
   - name: Media Center
     url: https://media.glaceon.net
+      - 200
+      - 201
+      - 403
+      - 404
+      - 401
   - name: Seedbox Library
     url: $LIB
+      - 200
+      - 201
+      - 403
+      - 404
+      - 401
   - name: Node - Apple Jack
     url: $AJ
     expectedStatusCodes:
       - 200
       - 201
       - 403
+      - 404
+      - 401
   - name: Node - Big Mcintosh
     url: $BM
     expectedStatusCodes:
       - 200
       - 201
       - 403
+      - 404
+      - 401
   - name: Node - Discord
     url: $DS
     expectedStatusCodes:
       - 200
       - 201
       - 403
+      - 404
+      - 401
   - name: Node - Fluttershy
     url: $FS
     expectedStatusCodes:
       - 200
       - 201
       - 403
+      - 404
+      - 401
   - name: Node - Rarity
     url: $RR
     expectedStatusCodes:
       - 200
       - 201
       - 403
+      - 404
+      - 401
   - name: Node - Starlight Glimmer
     url: $SG
     expectedStatusCodes:
       - 200
       - 201
       - 403
+      - 404
+      - 401
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
