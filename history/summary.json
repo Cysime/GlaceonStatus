@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/media.glaceon.net",
     "slug": "media-center",
     "status": "up",
-    "uptime": "99.68%",
+    "uptime": "99.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.68%",
-    "time": 533,
-    "timeDay": 840,
-    "timeWeek": 610,
+    "uptimeYear": "99.69%",
+    "time": 531,
+    "timeDay": 410,
+    "timeWeek": 522,
     "timeMonth": 564,
-    "timeYear": 533,
+    "timeYear": 531,
     "dailyMinutesDown": {
       "2020-12-15": 220
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 532,
-    "timeDay": 485,
-    "timeWeek": 451,
-    "timeMonth": 590,
-    "timeYear": 532,
+    "time": 528,
+    "timeDay": 323,
+    "timeWeek": 416,
+    "timeMonth": 585,
+    "timeYear": 528,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.65%",
-    "time": 390,
-    "timeDay": 415,
-    "timeWeek": 421,
+    "time": 391,
+    "timeDay": 424,
+    "timeWeek": 432,
     "timeMonth": 389,
-    "timeYear": 390,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2021-01-25": 123,
       "2021-01-21": 123
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 276,
-    "timeWeek": 282,
-    "timeMonth": 305,
-    "timeYear": 303,
+    "time": 304,
+    "timeDay": 337,
+    "timeWeek": 298,
+    "timeMonth": 304,
+    "timeYear": 304,
     "dailyMinutesDown": {}
   },
   {
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 548,
-    "timeDay": 657,
-    "timeWeek": 589,
+    "time": 549,
+    "timeDay": 606,
+    "timeWeek": 603,
     "timeMonth": 542,
-    "timeYear": 548,
+    "timeYear": 549,
     "dailyMinutesDown": {
       "2020-12-15": 218
     }
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
-    "time": 536,
-    "timeDay": 650,
-    "timeWeek": 579,
-    "timeMonth": 538,
-    "timeYear": 536,
+    "time": 537,
+    "timeDay": 604,
+    "timeWeek": 603,
+    "timeMonth": 536,
+    "timeYear": 537,
     "dailyMinutesDown": {
       "2020-12-15": 218
     }
@@ -127,11 +127,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 733,
-    "timeWeek": 724,
-    "timeMonth": 763,
-    "timeYear": 759,
+    "time": 758,
+    "timeDay": 675,
+    "timeWeek": 686,
+    "timeMonth": 762,
+    "timeYear": 758,
     "dailyMinutesDown": {}
   },
   {
@@ -146,9 +146,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 697,
-    "timeDay": 735,
-    "timeWeek": 724,
-    "timeMonth": 694,
+    "timeDay": 721,
+    "timeWeek": 718,
+    "timeMonth": 693,
     "timeYear": 697,
     "dailyMinutesDown": {}
   }
